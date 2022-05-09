@@ -1,6 +1,6 @@
 # DSGE-Models-Collection-for-the-South-African-Economy
 
-- [Intro](#Introduction)
+- [INTRODUCTION](#Introduction)
 
 
 This is an initiative by the South African Modelling Network (SAMNet) aimed at collecting and sharing the codes of DSGE models focusing on the South African economy. 
@@ -9,7 +9,9 @@ SAMNet is part of Economic Research Southern Africa (ERSA)
 
 In this ReadMe file, we provide a summary of each paper and a link to access each one of them when available
 
-A work in progress... all suggestions welcome
+A work in progress... 
+
+All suggestions welcome
 
 dadamvince@yahoo.fr
 
