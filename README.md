@@ -57,7 +57,12 @@ business cycle fluctuations through both financial accelerator and bank capital 
 increasing emphasis on common equity capital in Basel III regulations. This is beneficial in terms of financial
 stability, but amplifies and propagates shocks to the real economy.
 
-# 4 Hollander and Liu, 2016
+# 4 Dadam and Viegi, 2015
+- Labour Market and Monetary Policy
+- Journal: ERSA Working Papers
+- Abstract: This paper investigates the implications of the weak response of wages to market conditions in South Africa on the conduct of monetary policy. We use a DSGE model with unemployment following Blanchard and Gali (2010) to assess how di¤erent types of labour markets impacts monetary policy responses to shocks. The findings mainly suggest that stabilizing inflation may lead to high and persistent fluctuations in unemployment. Furthermore, the sacrifice ratio appears to be the highest when the labour market is characterized by high flows and a high level of steady state unemployment. The estimation results using South African data reveals a picture of a labour market with pervasive wage rigidities and large flows in the labour market, with high levels of job creation and job destruction rates. It is important to highlight that in the South African case, job destruction rates dominate the dynamics.
+
+# 5 Hollander and Liu, 2016
 - Credit Spread Variability in the U.S. Business Cycle: The Great Moderation versus the Great Recession 
 - Journal: Journal of Banking and Finance
 - Abstract: This paper identifies the prevailing financial factors that influence credit spread variability and shows
@@ -73,7 +78,7 @@ influence of loan-to-value ratio shocks declined after the 1990–91 recession, 
 requirement shock exacerbated and prolonged credit spread variability over the 2007–09 recession.
 
 
-# 5 Liu and Molise, 2019
+# 6 Liu and Molise, 2019
 - Housing and Credit Market Shocks: Exploring the Role of Rule-Based Basel III Counter-Cyclical Capital Requirements
 - Journal: Economic Modelling
 - Abstract: This paper examines the extent to which the Basel III bank capital regulation attenuates fluctuations in housing
@@ -89,7 +94,7 @@ when implementing the counter-cyclical buffer. Future research could extend the 
 of the rule-based Basel III with other macroprudential tools in achieving financial and macroeconomic
 stability.
 
-# 6 Liu and Molise, 2020
+# 7 Liu and Molise, 2020
 - The Optimal Monetary and Macroprudential Policies for the South African Economy
 - Journal: South African Journal of Economics
 - Abstract: We investigate the optimal design and effectiveness of monetary and macroprudential policies
@@ -106,7 +111,7 @@ higher cost of price instability. Our findings suggest that monetary policy shou
 its primary objective of price stability and let macroprudential policy facilitate financial stability
 on its own.
 
-# 7 Greenwood-Nimmo, Steenkamp and van Jaarsveld, 2022
+# 8 Greenwood-Nimmo, Steenkamp and van Jaarsveld, 2022
 - A Bank-Level Analysis of Interest Rate Pass-Through in South Africa
 - Journal: South African Reserve Bank Working Paper Series
 - Abstract: We study how changes in the South African Reserve Bank’s policy rate are passed through to
